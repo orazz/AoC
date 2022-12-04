@@ -8,3 +8,6 @@ print(day2.result())
 
 var day3 = Day3(input: loadInputAsStrings(fileName: "3"))
 print(day3.result())
+
+var day4 = Day4(input: loadInputAsStrings(fileName: "4"))
+print(day4.result())
