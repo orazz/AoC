@@ -1,4 +1,4 @@
-# Advent of Code
+# Advent of Code 2022
 
 [Day 1](https://github.com/orazz/AoC/blob/main/AoC-2022.playground/Sources/Day1.swift)
 
