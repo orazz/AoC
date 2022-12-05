@@ -7,3 +7,5 @@
 [Day 3](https://github.com/orazz/AoC/blob/main/AoC-2022.playground/Sources/Day3.swift)
 
 [Day 4](https://github.com/orazz/AoC/blob/main/AoC-2022.playground/Sources/Day4.swift)
+
+[Day 5](https://github.com/orazz/AoC/blob/main/AoC-2022.playground/Sources/Day5.swift)

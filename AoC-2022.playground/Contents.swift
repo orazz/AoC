@@ -11,3 +11,6 @@ print(day3.result())
 
 var day4 = Day4(input: loadInputAsStrings(fileName: "4"))
 print(day4.result())
+
+var day5 = Day5(input: loadInputAsStrings(fileName: "5"))
+print(day5.result())
