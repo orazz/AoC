@@ -88,13 +88,11 @@ public struct Day5 {
 
     public mutating func part1() -> String {
         var (stacks, moves) = self.read()
-
         for move in moves {
             for _ in 1...move.move {
                 stacks[move.to].push(stacks[move.from].pop())
             }
         }
-
         return String(stacks.map { Array($0.first())[1] }).replacingOccurrences(of: ",", with: "")
     }
 

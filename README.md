@@ -9,3 +9,5 @@
 [Day 4](https://github.com/orazz/AoC/blob/main/AoC-2022.playground/Sources/Day4.swift)
 
 [Day 5](https://github.com/orazz/AoC/blob/main/AoC-2022.playground/Sources/Day5.swift)
+
+[Day 6](https://github.com/orazz/AoC/blob/main/AoC-2022.playground/Sources/Day6.swift)
