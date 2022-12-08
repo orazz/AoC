@@ -30,7 +30,7 @@ extension String {
 
         return results.map { String($0) }
     }
-    
+
     func trim() -> String {
         return self.trimmingCharacters(in: CharacterSet.whitespaces)
     }

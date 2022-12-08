@@ -11,3 +11,5 @@
 [Day 5](https://github.com/orazz/AoC/blob/main/AoC-2022.playground/Sources/Day5.swift)
 
 [Day 6](https://github.com/orazz/AoC/blob/main/AoC-2022.playground/Sources/Day6.swift)
+
+[Day 7](https://github.com/orazz/AoC/blob/main/AoC-2022.playground/Sources/Day7.swift)
