@@ -18,6 +18,8 @@ import UIKit
 //var day6 = Day6(input: loadInputAsStrings(fileName: "6"))
 //print(day6.result())
 
-var day7 = Day7(input: loadInputAsStrings(fileName: "7"))
-print(day7.result())
+//var day7 = Day7(input: loadInputAsStrings(fileName: "7"))
+//print(day7.result())
 
+var day8 = Day8(input: loadInputAsStrings(fileName: "8"))
+print(day8.result())
