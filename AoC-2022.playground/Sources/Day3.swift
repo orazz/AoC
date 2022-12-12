@@ -68,6 +68,6 @@ public struct Day3 {
     }
 
     public mutating func result() -> String {
-        return "Day3\npart 1: \(self.part2())\npart 2: \(self.part2())\n"
+        return "Day3\npart 1: \(self.part1())\npart 2: \(self.part2())\n"
     }
 }

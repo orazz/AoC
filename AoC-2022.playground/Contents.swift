@@ -30,5 +30,9 @@ import UIKit
 //var day10 = Day10(input: loadInputAsStrings(fileName: "10"))
 //print(day10.result())
 
-var day11 = Day11(input: loadInputAsStrings(fileName: "11"))
-print(day11.result())
+//var day11 = Day11(input: loadInputAsStrings(fileName: "11"))
+//print(day11.result())
+
+var day12 = Day12(input: loadInputAsStrings(fileName: "12"))
+print(day12.result())
+

@@ -17,6 +17,13 @@ public func loadInputAsStrings(fileName: String, debugPrint: Bool = false) -> [S
     }
 }
 
+public func valueForChar(char: Character) -> Int {
+    if char.isLowercase {
+        return Int(char.asciiValue!) - 96
+    }
+    return Int(char.asciiValue!) - 38
+}
+
 extension String {
     func split(by length: Int) -> [String] {
         var startIndex = self.startIndex
@@ -54,3 +61,4 @@ extension String {
         return String(self[fromIndex...])
     }
 }
+

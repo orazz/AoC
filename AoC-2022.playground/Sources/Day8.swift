@@ -9,7 +9,7 @@ public struct Day8 {
 
     func read() -> [[Int]] {
         var grid: [[Int]] = [[Int]]()
-        for line in loadInputAsStrings(fileName: "8") {
+        for line in self.input {
             let row = line.map{ Int(String($0))! }
             grid.append(row)
         }
