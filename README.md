@@ -23,3 +23,7 @@
 [Day 11](https://github.com/orazz/AoC/blob/main/AoC-2022.playground/Sources/Day11.swift)
 
 [Day 12](https://github.com/orazz/AoC/blob/main/AoC-2022.playground/Sources/Day12.swift)
+
+[!Day 13](https://github.com/orazz/AoC/blob/main/AoC-2022.playground/Sources/Day13.swift)
+
+[Day 14](https://github.com/orazz/AoC/blob/main/AoC-2022.playground/Sources/Day14.swift)
